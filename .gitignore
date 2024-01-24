@@ -1,0 +1,6 @@
+*.terraform
+modules/key/client_key
+*.tfvars
+modules/key/client_key.pub
+*.tfstate
+*.DS_Store
